@@ -1,0 +1,4 @@
+github.com/gofrs/uuid/v5 v5.3.2 h1:2jfO8j3XgSwlz/wHqemAEugfnTlikAYHhnqQ8Xh4fE0=
+github.com/gofrs/uuid/v5 v5.3.2/go.mod h1:CDOjlDMVAtN56jqyRUZh58JT31Tiw7/oQyEXZV+9bD8=
+gitlab.clearwayintegration.com/go/modcomm/v3 v3.1.5 h1:tJtIu+5C+cskDbSv05s7cbQV9Me+OsXjn76xMPuH2LU=
+gitlab.clearwayintegration.com/go/modcomm/v3 v3.1.5/go.mod h1:qknLh1ncmf5UXL3ZRV3e2RNe4+WBuFjMFQkP49i6phs=
