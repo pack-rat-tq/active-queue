@@ -1,2 +1,2 @@
-# active-queue
-Generic active queue
+# Active Queue
+Generic active queue with pressure to consumer
